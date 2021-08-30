@@ -36,7 +36,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-landing-page.git"
     },
     "dependencies": {
-        "bootstrap": "5.1.0"
+        "bootstrap": "5.1.0",
+        "startbootstrap-landing-page": "^6.0.3"
     },
     "devDependencies": {
         "autoprefixer": "10.3.1",
